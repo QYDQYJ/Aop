@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Lib/spring-aspects-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-beans-4.1.7.RELEASE.jar" sourcepath="D:/apache/apache-maven-3.6.1/repority/org/springframework/spring-beans/4.1.7.RELEASE/spring-beans-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-aop-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-context-4.1.7.RELEASE.jar" sourcepath="D:/apache/apache-maven-3.6.1/repority/org/springframework/spring-context/4.1.7.RELEASE/spring-context-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-core-4.1.7.RELEASE.jar" sourcepath="D:/apache/apache-maven-3.6.1/repority/org/springframework/spring-core/4.1.7.RELEASE/spring-core-4.1.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="Lib/spring-expression-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="Lib/aspectjweaver-1.7.4.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
